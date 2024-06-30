@@ -1,3 +1,4 @@
+# Security misconfiguration
 > Hey , its an API right? so we ARE expecting Cross Origin Requests . We just hope it works fine.
 
 # Tools Used:
