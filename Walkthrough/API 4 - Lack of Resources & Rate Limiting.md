@@ -1,3 +1,4 @@
+# Lack of Resources & Rate Limiting
 > We believe OTPs are a great way of authenticating users and secure too if implemented correctly!
 
 # Tools Used:
