@@ -1,6 +1,6 @@
 # vAPI Walkthrough without Burp Suite
 
-> Why use Burp Suite when you can make your life harder?
+> Why use Burp Suite when you can make your life harder? kekw
 
 [vAPI](https://github.com/roottusk/vapi) is a Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios through Exercises.
 
