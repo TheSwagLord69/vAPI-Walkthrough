@@ -1,3 +1,4 @@
+# Broken Function Level Authorization
 > You can register yourself as a User. Thats it or is there something more? (I heard admin logins often but uses different route)
 
 # Tools Used:
