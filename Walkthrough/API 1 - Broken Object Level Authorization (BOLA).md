@@ -1,3 +1,4 @@
+# Broken Object Level Authorization
 > You can register yourself as a User , Thats it ....or is there something more?
 
 Note: Insecure Direct Object Reference (IDOR) and Broken Object Level Authorization (BOLA) are the same findings under a different name.
