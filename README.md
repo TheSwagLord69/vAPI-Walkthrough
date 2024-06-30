@@ -2,7 +2,7 @@
 
 > Why use Burp Suite when you can make your life harder? kekw
 
-[vAPI](https://github.com/roottusk/vapi) is a Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios through Exercises.
+[vAPI](https://github.com/roottusk/vapi) is a Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 (2019) scenarios through Exercises.
 
 This repository aims to guide the API penetration testing process through the vAPI lab without the aid of Burp Suite.
 
