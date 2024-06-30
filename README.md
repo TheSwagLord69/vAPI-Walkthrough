@@ -4,7 +4,7 @@
 
 [vAPI](https://github.com/roottusk/vapi) is a Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 (2019) scenarios through Exercises.
 
-This repository aims to guide the API penetration testing process through the vAPI lab without the aid of Burp Suite.
+This documentation aims to guide the API penetration testing process through the vAPI lab without the aid of Burp Suite.
 
 ## vAPI mapped to OWASP Top 10 API Security Risks (2019)
 
